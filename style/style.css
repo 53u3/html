@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap');
 :root{
-    --background-color: #333647;
+    --background-color: #000000;
     --pink-color: #ff0000;
     --secondary-color: #bbbbbb;
 }
@@ -43,7 +43,7 @@ canvas.particles-js-canvas-el{
 .hero_section .row h3::after{
     content: '';
     position: absolute;
-    text-align: center;
+    text-align: center; 
     top: 10px;
     width: 90px;
     height: 2px;
